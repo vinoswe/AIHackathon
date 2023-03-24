@@ -31,7 +31,7 @@ We can use the ```owndata.csv``` input file to feed the dataset to the program
 ### Install DataSynthesizer
 
 ```bash
-Download python (Goto https://www.python.org/downloads/) and install 
+Download python (Goto https://www.python.org/downloads/) and install.
 pip install DataSynthesizer
 pip install pandas
 pip install numpy
@@ -40,7 +40,8 @@ pip install numpy
 **Running the Python**
 
 ```bash
-python DataSynthesizer.py
+Open the pythen runner then run the 'DataSynthesizer.py' file or
+goto cmd promt then enter python DataSynthesizer.py
 ```
 Finally you will get ```sythetic_data.csv``` file with syhthetic data.
 
