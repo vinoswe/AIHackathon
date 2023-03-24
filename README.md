@@ -20,7 +20,7 @@ DataSynthesizer generates synthetic data that simulates a given dataset.
 
 ## Table of contents
 * [Approach](#approach)
-* [Setup](#setup)
+* [Setup & Prerequisites](#setup)
 * [API Specifications](#api-specifications)
 * [Build Pipeline](#build-pipeline)
 * [Sonar Analysis](#sonar-analysis)
@@ -32,7 +32,11 @@ Used latest version of Python by using Bayesian Networks Model and DataSynthesiz
 ## Setup
 Please follow one of the below steps: 
 
- **Development Setup**
+**Prerequisites**
+
+We can use the ```owndata.csv``` input file to feed the dataset to the program
+
+ **POC Environment Setup**
 
 ### Install DataSynthesizer
 
@@ -45,8 +49,14 @@ pip install numpy
 **Running the Python**
 
 ```bash
-python DataSynthesize.py
+python DataSynthesizer.py
 ```
+Finally you will get ```sythetic_data.csv``` file with syhthetic data.
+
+**Sandbox**
+
+We are using ```retoolapi.dev``` online environment for sanbox enviornment. We have to upload ```sythetic_data.csv``` dataset files in this site to generate the mock api to test
+
 
 **Testing the APIs**
 Once the endpoint is up, please use the postman collection collection, `bookstore-api.postman_collection.json` available on root directory to validate the APIs
