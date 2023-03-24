@@ -1,5 +1,5 @@
-## AIHackathon
-#Synthetic Data generation and Sandbox
+# AIHackathon
+## Synthetic Data generation and Sandbox
 
 
 # DataSynthesizer
@@ -20,8 +20,9 @@ pip install DataSynthesizer
 
 ##### Assumptions for the Input Dataset
 
-1. The input dataset is a table in first normal form ([1NF](https://en.wikipedia.org/wiki/First_normal_form)).
+1. The input dataset is a table in first normal form (doc/owndata.csv)
 2. When implementing differential privacy, DataSynthesizer injects noises into the statistics within **active domain** that are the values presented in the table.
+3. Finally it will be created synthetic data in this format(doc/sythetic_data.csv)
 
 ##### Use Jupyter Notebook
 
