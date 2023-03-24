@@ -6,7 +6,7 @@ DataSynthesizer generates synthetic data that simulates a given dataset.
 
 > It aims to facilitate the collaborations between data scientists and owners of sensitive data. It applies Differential Privacy techniques to achieve strong privacy guarantee.
 >
-> For more details, please refer to [DataSynthesizer: Privacy-Preserving Synthetic Datasets](docs/cr-datasynthesizer-privacy.pdf)
+> For more details, please refer to [DataSynthesizer: Privacy-Preserving Synthetic Datasets](doc/cr-datasynthesizer-privacy.pdf)
 
 
 
