@@ -17,7 +17,7 @@ DataSynthesizer generates synthetic data that simulates a given dataset.
 
 
 ## Approach
-Used latest version of Python by using Bayesian Networks Model and DataSynthesizer, pandas & numpy packages for creating sythentic data and retoolapi.dev for sandbox environment from synthetic dataset from the DataSynthesizer.
+Used latest version of Python by using Bayesian Networks Model and DataSynthesizer, pandas & numpy packages for creating sythentic data and retoolapi.dev for sandbox environment and mock api creation from synthetic dataset(DataSynthesizer).
 
 ## Setup
 Please follow one of the below steps: 
