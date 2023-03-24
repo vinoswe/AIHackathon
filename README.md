@@ -49,7 +49,7 @@ Finally you will get ```sythetic_data.csv``` file with syhthetic data.
 
 We are using ```retoolapi.dev``` online environment for sanbox enviornment. We have to upload ```sythetic_data.csv``` dataset files in this site to generate the mock api with endpoint.
 ```
-Endpont https://retoolapi.dev/142yCB/employees
+Endpoint https://retoolapi.dev/142yCB/employees
 HTTP methods : GET, URI : /142yCB/employees
 ```
 
