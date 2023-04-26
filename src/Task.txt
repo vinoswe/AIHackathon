@@ -1,0 +1,8 @@
+Check the user how much token used in DB
+
+Check quota and compare how much user is using
+
+https://github.com/pablomarin/GPT-Azure-Search-Engine
+
+https://rakbank-openai-research.openai.azure.com/openai/deployments/davinci/completions?api-version=2022-12-01
+https://rakbank-openai-research.openai.azure.com/openai/deployments/davinci/completions?api-version=2022-12-01 

@@ -75,4 +75,3 @@ attribute_description = read_json_file(description_file)['attribute_description'
 inspector = ModelInspector(input_df, synthetic_df, attribute_description)
 
 inspector.mutual_information_heatmap()
-

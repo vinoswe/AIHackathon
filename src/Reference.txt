@@ -1,0 +1,14 @@
+1) Openai date - No date
+2) Mail confirmation from microsoft(For our data not sharing in public).
+3) 
+ 
+
+
+
+1) Steps will share with microsoft team
+how we can create multiple service for different team
+
+
+
+1) deployment failed 
+2) Use existing Service
